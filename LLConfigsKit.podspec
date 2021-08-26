@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LLConfigsKit'
   s.version          = '1'
-  s.summary          = 'A short description of LLConfigsKit.'
+  s.summary          = 'LLConfigsKit config组件.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
