@@ -1,0 +1,22 @@
+{
+  "name": "LLConfigsKit",
+  "version": "0.1.0",
+  "summary": "A short description of LLConfigsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wawahuhu/LLConfigsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wawahuhu": "huuuu1016@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wawahuhu/LLConfigsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LLConfigsKit/Classes/**/*"
+}

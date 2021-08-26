@@ -1,0 +1,6 @@
+framework module LLConfigsKit {
+  umbrella header "LLConfigsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LLConfigsKit (0.1.0)
+
+DEPENDENCIES:
+  - LLConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  LLConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLConfigsKit: 22bf3630043088b059492e95a47def43f1ce6856
+
+PODFILE CHECKSUM: cd161e1b2f59f54bda92036e2731e486d5208456
+
+COCOAPODS: 1.10.1
